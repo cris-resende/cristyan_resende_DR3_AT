@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c3b08a-d456-4d49-a7dd-4cd4b8badef4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/infnet/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/infnet/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/edu/infnet/java/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/edu/infnet/java/AppTest.java" afterDir="false" />
+    <list default="true" id="39c3b08a-d456-4d49-a7dd-4cd4b8badef4" name="Changes" comment="Rubrica 2 - Desenvolver testes unitários usando JUnit:">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,22 +22,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "cris-resende"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cris-resende&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/cris-resende/cristyan_resende_DR3_AT.git",
-    "accountId": "54dfe357-2da0-44c0-b2ae-82fa08189d38"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cris-resende/cristyan_resende_DR3_AT.git&quot;,
+    &quot;accountId&quot;: &quot;54dfe357-2da0-44c0-b2ae-82fa08189d38&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2yYC7IsK55ywjvjDX0x420S5wgH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -51,27 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "JUnit.AppTest.executor": "Run",
-    "JUnit.AppTest.testEndpointHello.executor": "Run",
-    "Maven.cristyan_resende_DR3_AT [clean].executor": "Run",
-    "Maven.cristyan_resende_DR3_AT [install].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/crist/OneDrive/Documentos/INFNET 2025/Desenv de serviços web e testes com JAVA/cristyan_resende_DR3_AT",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testEndpointHello.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cristyan_resende_DR3_AT [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cristyan_resende_DR3_AT [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/crist/OneDrive/Documentos/INFNET 2025/Desenv de serviços web e testes com JAVA/cristyan_resende_DR3_AT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.AppTest">
+}</component>
+  <component name="RunManager">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cristyan_resende_DR3_AT" />
       <extension name="coverage">
@@ -125,11 +120,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750001951646</updated>
-      <workItem from="1750001953313" duration="1853000" />
+      <workItem from="1750001953313" duration="2650000" />
+      <workItem from="1750005248546" duration="745000" />
+      <workItem from="1750034144402" duration="835000" />
     </task>
+    <task id="LOCAL-00001" summary="Rubrica 2 - Desenvolver testes unitários usando JUnit:">
+      <option name="closed" value="true" />
+      <created>1750004013816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750004013816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rubrica 1 - Preparar o ambiente para desenvolvimento local com Java" />
+    <MESSAGE value="Rubrica 2 - Desenvolver testes unitários usando JUnit:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rubrica 2 - Desenvolver testes unitários usando JUnit:" />
   </component>
 </project>
